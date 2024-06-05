@@ -1,0 +1,38 @@
+name: sloffee_ai
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.0.3
+  flutter_local_notifications: ^9.1.5
+  firebase_auth: ^4.5.0
+  firebase_core: ^2.13.0
+  introduction_screen: ^3.0.0
+  webview_flutter: ^2.0.14
+  fluttertoast: ^8.2.6
+  flutter_email_sender: ^5.0.2
+  cloud_firestore: ^4.17.5
+  shared_preferences: ^2.0.6
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/sloffee_logo.png
+    - assets/sloffee_analyst.png
+    - assets/sloffee_mentor.png
+    - assets/sloffee_motivator.png
+    - assets/sloffee_strategist.png

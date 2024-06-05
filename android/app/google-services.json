@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302486751890",
+    "project_id": "sloffee-ai",
+    "storage_bucket": "sloffee-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302486751890:android:e6f226b5e454a0379e344b",
+        "android_client_info": {
+          "package_name": "com.example.sloffee_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302486751890-e3hkvfqpnt077j9ri3j4t42009rlkum3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLzgTj-d1wCKscF__o0okEoTpBAuZS578"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302486751890-e3hkvfqpnt077j9ri3j4t42009rlkum3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
